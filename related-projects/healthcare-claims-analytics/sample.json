@@ -1,0 +1,28 @@
+{
+  "claims": [
+    {
+      "id": "x1",
+      "provider": "p1",
+      "status": "paid",
+      "paid_cents": 12000
+    },
+    {
+      "id": "x2",
+      "provider": "p1",
+      "status": "denied",
+      "paid_cents": 0
+    },
+    {
+      "id": "x1",
+      "provider": "p1",
+      "status": "paid",
+      "paid_cents": 12000
+    },
+    {
+      "id": "x3",
+      "provider": "p2",
+      "status": "paid",
+      "paid_cents": 5000
+    }
+  ]
+}

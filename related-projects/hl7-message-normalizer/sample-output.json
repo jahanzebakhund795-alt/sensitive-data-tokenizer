@@ -1,0 +1,17 @@
+{
+  "accepted": [
+    {
+      "location": "WARD1",
+      "message_id": "m1",
+      "message_type": "ADT^A01",
+      "patient_class": "I",
+      "patient_id": "SYN001"
+    }
+  ],
+  "rejected": [
+    {
+      "index": 1,
+      "reason": "'PID'"
+    }
+  ]
+}

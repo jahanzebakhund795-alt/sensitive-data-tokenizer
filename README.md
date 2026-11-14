@@ -36,3 +36,11 @@ The demo processes a bounded input locally. It does not claim cloud-scale throug
 ## Validation
 
 The included tests check concrete expected business results and input preservation. The optional GitHub Actions template at `docs/verify.yml` runs the tests and CLI on Python 3.9 and 3.12. To enable CI later, install it as `.github/workflows/verify.yml` using GitHub authorization with workflow permission. Local tests run without GitHub access.
+
+## Companion portfolio projects
+
+Additional self-contained demonstrations aligned with related resume experience. Each directory has its own CLI, synthetic input, expected output, documentation, and tests. Change into that directory before running its commands.
+
+- [Healthcare Claims Analytics](related-projects/healthcare-claims-analytics/README.md)
+- [HL7 Message Normalizer](related-projects/hl7-message-normalizer/README.md)
+- [CMS Style Report Reconciliation](related-projects/cms-style-report-reconciliation/README.md)

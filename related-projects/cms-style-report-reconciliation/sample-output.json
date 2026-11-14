@@ -1,0 +1,26 @@
+{
+  "exceptions": [
+    {
+      "member": "S2",
+      "missing": [
+        "risk",
+        "payment"
+      ],
+      "month": "2025-01"
+    }
+  ],
+  "orphan_member_months": [
+    [
+      "S3",
+      "2025-01"
+    ]
+  ],
+  "ready": [
+    {
+      "member": "S1",
+      "month": "2025-01",
+      "payment_cents": 100000,
+      "score": 1.2
+    }
+  ]
+}

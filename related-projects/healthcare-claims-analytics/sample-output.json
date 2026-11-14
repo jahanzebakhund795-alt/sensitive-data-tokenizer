@@ -1,0 +1,17 @@
+{
+  "providers": {
+    "p1": {
+      "claims": 2,
+      "denial_rate": 0.5,
+      "denied": 1,
+      "paid_cents": 12000
+    },
+    "p2": {
+      "claims": 1,
+      "denial_rate": 0.0,
+      "denied": 0,
+      "paid_cents": 5000
+    }
+  },
+  "unique_claims": 3
+}

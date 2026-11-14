@@ -1,0 +1,6 @@
+{
+  "messages": [
+    "MSH|^~\\&|DEMO|LAB|DEST|SITE|202501011200||ADT^A01|m1|P|2.5\rPID|1||SYN001||Sample^Alex\rPV1|1|I|WARD1",
+    "MSH|^~\\&|DEMO|LAB|DEST|SITE|202501011200||ADT^A01|m2|P|2.5\rPV1|1|O|CLINIC"
+  ]
+}

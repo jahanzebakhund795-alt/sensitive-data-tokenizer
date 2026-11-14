@@ -1,0 +1,31 @@
+{
+  "enrollment": [
+    {
+      "member": "S1",
+      "month": "2025-01"
+    },
+    {
+      "member": "S2",
+      "month": "2025-01"
+    }
+  ],
+  "risk": [
+    {
+      "member": "S1",
+      "month": "2025-01",
+      "score": 1.2
+    }
+  ],
+  "payments": [
+    {
+      "member": "S1",
+      "month": "2025-01",
+      "cents": 100000
+    },
+    {
+      "member": "S3",
+      "month": "2025-01",
+      "cents": 80000
+    }
+  ]
+}

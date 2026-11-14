@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "patient_id": "synthetic-001",
+      "name": "Demo Person",
+      "email": "demo@example.invalid",
+      "diagnosis": "D1"
+    },
+    {
+      "patient_id": "synthetic-001",
+      "name": "Demo Person",
+      "email": "demo@example.invalid",
+      "diagnosis": "D2"
+    }
+  ]
+}

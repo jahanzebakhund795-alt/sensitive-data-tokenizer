@@ -1,0 +1,13 @@
+{
+  "mode": "pseudonymization; not anonymization",
+  "records": [
+    {
+      "diagnosis": "D1",
+      "patient_token": "1c432f410cd73812224f59c344763b358fa8b6001873a767666b7adbefc20a63"
+    },
+    {
+      "diagnosis": "D2",
+      "patient_token": "1c432f410cd73812224f59c344763b358fa8b6001873a767666b7adbefc20a63"
+    }
+  ]
+}
